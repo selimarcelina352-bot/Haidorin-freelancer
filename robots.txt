@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://selimarcelina352-bot.github.io/Haidorin-freelancer/sitemap.xml
